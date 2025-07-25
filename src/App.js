@@ -1,4 +1,4 @@
-import './App.css';
+
 import DotLoader from './DotLoader';
 
 function App() {
